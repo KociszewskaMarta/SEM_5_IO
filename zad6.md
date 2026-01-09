@@ -2,7 +2,7 @@
 
 ## Diagramy sekwencji
 
-1. [ ] Kontrola dat ważności - Marta
+1. [x] Kontrola dat ważności / Zwrot - Marta
 
 2. [ ] Przeprowadzenia transkacji - Weronika
  

@@ -14,7 +14,7 @@
 
 ## Diagram czyności
 
-1. [ ] - Lidka
+1. [x] Analiza trendów sprzedaży - Lidka
 
 ## Diagram stanów
 

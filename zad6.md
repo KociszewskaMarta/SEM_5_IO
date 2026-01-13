@@ -6,7 +6,7 @@
 
 2. [ ] Przeprowadzenia transkacji - Weronika
  
-3. [ ] - Zamawianie towaru - Lidka
+3. [x] Zamawianie towaru - Lidka
 
 ## Diagram komunikacji
 
